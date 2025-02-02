@@ -1,3 +1,5 @@
 ls - lista os arquivos dentro da pasta
 cd - move entre os diretorios
 pwd - mostra o diretorio que vc está 
+cat - exibe o conteudo dos arquivos
+rm - remove arquivo ou diretorio
