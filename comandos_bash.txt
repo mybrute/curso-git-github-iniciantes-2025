@@ -1,0 +1,3 @@
+ls - lista os arquivos dentro da pasta
+cd - move entre os diretorios
+pwd - mostra o diretorio que vc está 
