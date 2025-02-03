@@ -2,3 +2,9 @@ esse arquivo contem comandos secundarios de git
 
 - primeiro comando
 - segundo comando
+## mais comandos
+Mais comandos
+e mais comandos
+aiushduhas
+dhausduha
+hdausdu
