@@ -1,8 +1,8 @@
 git init . - cria um repositorio git na pasta atual 
-git status - mostra o status do trabalho
+git status             - mostra o status do trabalho
 git commit -m - faz o commit do que estava para ser commitado
 git add "nome do arquivo" - adiciona o arquivo para ser comitado 
-git log - mostra todos o historico de commit
+git log -    mostra todos o historico de commit
 
 ## FLUXO DE TRABALHO
 
@@ -12,6 +12,6 @@ git log - mostra todos o historico de commit
 4. git stauts para validar o que foi feito nos processos anteriores
 5. git add "nome do arquivo" (ira adicionar o arquivo para o commit
 6. git status valida a ação anterior
-7. git commit -m "mensagem"
+7. git commit -m "Mensagem estranha"
 8. git status
 9. volta para o passo 3
