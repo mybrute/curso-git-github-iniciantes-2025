@@ -4,5 +4,10 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de codigo e re
 
 --- 
 
+
+Confira tudo o que temos no nosso youtube. É tudo grátis!!! Segue link:
+
+[Curso git 2025:]
+
 Pessoas participantes 
 - Lucas
